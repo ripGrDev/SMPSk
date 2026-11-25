@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ORVYTHMC",
+    "username": "SMPSk",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
-    "version": "1.20.1",
+    "ip": "SMPSKL.aternos.me",
+    "port": 22677,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
